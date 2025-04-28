@@ -26,6 +26,4 @@ for(let indiceApariciones=0;indiceApariciones<5; indiceApariciones++){
     console.log(apariciones)
 }
 
-//sumar los dados
-
-//anotar cuantas veces salio cada suma (del 2 al 12)
+//falta presentar todos los valores en una tabla
